@@ -24,8 +24,6 @@ Modern e-commerce platforms handle thousands of active customer profiles across 
 * **Dimensionality Reduction:** Utilize Principal Component Analysis (PCA) to overcome multicollinearity and compress high-dimensional feature space while retaining maximum variance.
 * **Intelligent Clustering:** Benchmark **K-Means**, **Agglomerative Hierarchical Clustering**, and **DBSCAN** to determine optimal mathematical user clusters.
 * **Business Personas & Strategy:** Translate raw cluster outputs into actionable customer personas (*Champions*, *Budget Shoppers*, *At-Risk / Churn-Prone*, *Promotional Responders*) with specific marketing workflows.
-* **Interactive Dashboard:** Deploy a Streamlit web application enabling real-time segment inspection, scenario filtering, and exportable customer lists.
-
 ---
 
 ## 🛠️ Tech Stack & Libraries
