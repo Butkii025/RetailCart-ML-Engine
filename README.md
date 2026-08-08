@@ -19,14 +19,14 @@ Modern e-commerce platforms handle thousands of active customer profiles across 
 
 ---
 
-## 🎯 Project Objectives & Aim
+## Project Objectives & Aim
 * **Data Processing & Feature Engineering:** Transform 22 raw attributes (demographics, purchase history, web activity, campaign response) into high-signal metrics (e.g., Total Spend, Tenure, Household Dynamics).
 * **Dimensionality Reduction:** Utilize Principal Component Analysis (PCA) to overcome multicollinearity and compress high-dimensional feature space while retaining maximum variance.
 * **Intelligent Clustering:** Benchmark **K-Means**, **Agglomerative Hierarchical Clustering**, and **DBSCAN** to determine optimal mathematical user clusters.
 * **Business Personas & Strategy:** Translate raw cluster outputs into actionable customer personas (*Champions*, *Budget Shoppers*, *At-Risk / Churn-Prone*, *Promotional Responders*) with specific marketing workflows.
 ---
 
-## 🛠️ Tech Stack & Libraries
+## Tech Stack & Libraries
 * **Language:** Python 3.10+
 * **Data Processing & Manipulation:** Pandas, NumPy
 * **Machine Learning:** Scikit-Learn (StandardScaler, PCA, KMeans, AgglomerativeClustering, DBSCAN)
@@ -49,7 +49,7 @@ Modern e-commerce platforms handle thousands of active customer profiles across 
 
 ---
 
-## 💡 Business Impact & Key Gains
+## Business Impact & Key Gains
 * **Enhanced Retention Rate:** Proactively target high-churn clusters with automated retention offers.
 * **Maximized ROI on Marketing:** Eliminate blanket spending by routing campaign budgets exclusively to responsive customer segments.
 * **Personalized User Journey:** Tailor product recommendations according to spend behavior and channel preference.
