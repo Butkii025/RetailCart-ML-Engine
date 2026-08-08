@@ -1,6 +1,6 @@
 # RetailCart ML Engine
 
-*Unsupervised Customer Segmentation & Behavioural Intelligence Platform*
+*Unsupervised Customer Segmentation & Behavioural Intelligence System*
 
 
 ## Executive Summary
